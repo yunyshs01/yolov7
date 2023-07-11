@@ -47,6 +47,8 @@ test2017.zip
 train2017.zip
 val2017.zip
 
+aquarium_data/
+
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~
 *.mat
@@ -261,3 +263,4 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
